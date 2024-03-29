@@ -1,0 +1,34 @@
+{
+    "AS_Switch_eb33936c512940cab19e7905c03857ba": {
+        "id": "AS_Switch_eb33936c512940cab19e7905c03857ba",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i8857f4dbeec49b3a21a2dd63aebf276"
+        },
+        "language": "js",
+        "eventType": "onSlide",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__b5e1483a50704f3ab7192f0e2f28deae",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmMain",
+            "widgetId": "txtAreaJSON",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "i8857f4dbeec49b3a21a2dd63aebf276",
+            "widgetKUID": "hee8841b1c894ee49170e11931c54492",
+            "isSkinProperty": false,
+            "wType": "TextArea",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.txtAreaJSON"
+        }]
+    }
+}

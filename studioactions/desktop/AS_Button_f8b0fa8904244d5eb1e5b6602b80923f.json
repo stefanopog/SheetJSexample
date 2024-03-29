@@ -1,0 +1,21 @@
+{
+    "AS_Button_f8b0fa8904244d5eb1e5b6602b80923f": {
+        "id": "AS_Button_f8b0fa8904244d5eb1e5b6602b80923f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c49437d156de4c408ab4a98d00a8ed1b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getExcel",
+            "display": "getExcel",
+            "inputparams": [],
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

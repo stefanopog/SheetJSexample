@@ -1,0 +1,34 @@
+{
+    "AS_CheckBoxGroup_bb9b60b188e7483e867fe84653941a1b": {
+        "id": "AS_CheckBoxGroup_bb9b60b188e7483e867fe84653941a1b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i8857f4dbeec49b3a21a2dd63aebf276"
+        },
+        "language": "js",
+        "eventType": "onSelection",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__bd3f14676df540c49bdd098a701ff0a0",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmMain",
+            "widgetId": "txtAreaJSON",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "i8857f4dbeec49b3a21a2dd63aebf276",
+            "widgetKUID": "hee8841b1c894ee49170e11931c54492",
+            "isSkinProperty": false,
+            "wType": "TextArea",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.txtAreaJSON"
+        }]
+    }
+}

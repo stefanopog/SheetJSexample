@@ -1,0 +1,34 @@
+{
+    "HEAD": "w9fbb0f54e244b00a58662b7973c488f",
+    "w190b53cd2824224b8f1e45fbab2e7bc": {
+        "extension": "js",
+        "kuid": "w190b53cd2824224b8f1e45fbab2e7bc",
+        "name": "app.js",
+        "parent": "w9fbb0f54e244b00a58662b7973c488f",
+        "type": "F"
+    },
+    "w4506882daec4dc6bbfc392a99c852d0": {
+        "extension": "js",
+        "kuid": "w4506882daec4dc6bbfc392a99c852d0",
+        "name": "xlsxfullmin.js",
+        "parent": "w9fbb0f54e244b00a58662b7973c488f",
+        "type": "F"
+    },
+    "w9fbb0f54e244b00a58662b7973c488f": {
+        "children": [
+            "w4506882daec4dc6bbfc392a99c852d0",
+            "w190b53cd2824224b8f1e45fbab2e7bc",
+            "wd3f5edab6bb479fbfe56971042d8402"
+        ],
+        "kuid": "w9fbb0f54e244b00a58662b7973c488f",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "wd3f5edab6bb479fbfe56971042d8402": {
+        "extension": "html",
+        "kuid": "wd3f5edab6bb479fbfe56971042d8402",
+        "name": "index.html",
+        "parent": "w9fbb0f54e244b00a58662b7973c488f",
+        "type": "F"
+    }
+}

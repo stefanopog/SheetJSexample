@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "208dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s36a8c0fbee0403885becd69d3eed1f1",
+    "_text_": "Import Excel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5f2d1598b6b42c1a83d26f2e0a045ae",
+    "id": "btnLoad",
+    "ide_onClick": "AS_Button_f8b0fa8904244d5eb1e5b6602b80923f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b0932fef94e9448dab823a2b47c56a13",
+    "name": "kony.ui.Button",
+    "parent": "flxReaderSide",
+    "pf": "frmMain",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

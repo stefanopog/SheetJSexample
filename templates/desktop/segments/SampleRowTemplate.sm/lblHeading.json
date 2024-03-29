@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se32ba31a34d4b91aeb5ddc13f141ca2",
+    "_text_": "Heading",
+    "_top_": {
+        "type": "string",
+        "value": "8.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblHeading",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d316e85eeeab41d5b63d2fb9cd518f51",
+    "maxwidth": {
+        "type": "string",
+        "value": "50%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "flxSampleRowTemplate",
+    "pf": "SampleRowTemplate",
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

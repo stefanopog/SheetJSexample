@@ -1,0 +1,28 @@
+{
+    "AS_Button_j40d4b6db7374de1891ec99ca849c327": {
+        "id": "AS_Button_j40d4b6db7374de1891ec99ca849c327",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i8857f4dbeec49b3a21a2dd63aebf276"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__e62a6b79411a4b518d0b631d49035a16",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getExcel",
+            "display": "getExcel",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

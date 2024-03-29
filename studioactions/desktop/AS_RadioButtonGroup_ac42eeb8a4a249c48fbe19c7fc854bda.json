@@ -1,0 +1,24 @@
+{
+    "AS_RadioButtonGroup_ac42eeb8a4a249c48fbe19c7fc854bda": {
+        "id": "AS_RadioButtonGroup_ac42eeb8a4a249c48fbe19c7fc854bda",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i8857f4dbeec49b3a21a2dd63aebf276"
+        },
+        "language": "js",
+        "eventType": "onSelection",
+        "actions": [{
+            "id": "ADD_SNIPPET_ga3d85c98c72421684a14c8b3dd6f08f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (self.view.radioSwitch.selectedKey === 'rbg2') {\n  self.view.txtAreaJSON.isVisible = false;\n} else {\n  self.view.txtAreaJSON.isVisible = true;\n}",
+            "parentId": null
+        }]
+    }
+}

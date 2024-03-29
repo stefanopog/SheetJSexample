@@ -1,0 +1,68 @@
+{
+    "classname": "Row",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "da852658f8cc44cfa2c30da28ccb690f",
+                    "paramList": [],
+                    "propertyKey": "addCell",
+                    "pw": {
+                        "displayName": "addCell",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uf15e1d3ff7141909e87fa1bcad4c2a8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "eea9668e57654dd2ad0581167ebca1a8",
+                    "paramList": [],
+                    "propertyKey": "removeAllCells",
+                    "pw": {
+                        "displayName": "removeAllCells",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uf15e1d3ff7141909e87fa1bcad4c2a8",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "cf2eca810e174423a66338a1783f647d",
+                    "paramList": [],
+                    "propertyKey": "getCells",
+                    "pw": {
+                        "displayName": "getCells",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uf15e1d3ff7141909e87fa1bcad4c2a8",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hcl.sheetJS",
+    "version": "1.0.0"
+}
